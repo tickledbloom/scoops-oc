@@ -1,3 +1,3 @@
-Scoops OC Website
+# Scoops OC Website
 
 One page website for Scoops OC, a local ice cream shop.
